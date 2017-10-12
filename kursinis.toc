@@ -1,0 +1,21 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {lithuanian}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.}Būsimos sistemos įtakojamų asmenų kategorijos}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.}Pirminių naudotojų poreikiai}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.}Pirminių naudotojų charakteristikos}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.}Pirminių naudotojų kompiuterizuojamų veiklų analizė}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.}Pirminių naudotojų siekiai}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.}Esminių užduočių analizė}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.}Įkvepiančios interfeisų idėjos}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.}Terminų žodynėlis}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Priedai}{24}
