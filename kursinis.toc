@@ -2,22 +2,24 @@
 \defcounter {refsection}{0}\relax 
 \select@language {lithuanian}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Įvadas}{3}
+\contentsline {section}{Anotacija}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.}Būsimos sistemos įtakojamų asmenų kategorijos}{4}
+\contentsline {section}{Įvadas}{2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.}Pirminių vartotojų poreikiai}{6}
+\contentsline {section}{\numberline {1.}Būsimos sistemos įtakojamų asmenų kategorijos}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.}Pirminių vartotojų charakteristikos}{6}
+\contentsline {section}{\numberline {2.}Pirminių vartotojų poreikiai}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.}Pirminių vartotojų kompiuterizuojamų veiklų analizė}{7}
+\contentsline {subsection}{\numberline {2.1.}Pirminių vartotojų charakteristikos}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.}Pirminių vartotojų siekiai}{14}
+\contentsline {subsection}{\numberline {2.2.}Pirminių vartotojų kompiuterizuojamų veiklų analizė}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.}Esminių užduočių analizė}{16}
+\contentsline {subsection}{\numberline {2.3.}Pirminių vartotojų siekiai}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.}Įkvepiančios interfeisų idėjos}{20}
+\contentsline {section}{\numberline {3.}Esminių užduočių analizė}{15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.}Terminų žodynėlis}{25}
+\contentsline {section}{\numberline {4.}Įkvepiančios interfeisų idėjos}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Priedai}{26}
+\contentsline {section}{Terminų žodynėlis}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Priedai}{25}
