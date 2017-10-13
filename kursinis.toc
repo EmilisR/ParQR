@@ -18,6 +18,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.}Įkvepiančios interfeisų idėjos}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.}Terminų žodynėlis}{24}
+\contentsline {section}{\numberline {5.}Terminų žodynėlis}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Priedai}{25}
+\contentsline {section}{Priedai}{26}
