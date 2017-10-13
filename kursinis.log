@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  13 OCT 2017 00:50
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  13 OCT 2017 09:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1218,10 +1218,12 @@ Overfull \hbox (29.18367pt too wide) in paragraph at lines 615--616
 File: img/mparking.jpg Graphic file (type QTm)
  <use  "img/mparking.jpg" > [22]
 File: img/unipark.jpg Graphic file (type QTm)
- <use  "img/unipark.jpg" > [23] [24
+ <use  "img/unipark.jpg" >
+File: img/smartpark.png Graphic file (type QTm)
 
-]
-[25
+<use  "img/smartpark.png" > [23] [24] [25
+
+] [26
 
 ] (./kursinis.aux)
 Package logreq Info: Writing requests to 'kursinis.run.xml'.
@@ -1229,12 +1231,12 @@ Package logreq Info: Writing requests to 'kursinis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24354 strings out of 493918
- 459164 string characters out of 6150562
+ 24357 strings out of 493918
+ 459209 string characters out of 6150562
  864181 words of memory out of 5000000
- 27309 multiletter control sequences out of 15000+600000
+ 27311 multiletter control sequences out of 15000+600000
  18151 words of font info for 89 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  67i,12n,96p,10533b,707s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on kursinis.pdf (26 pages).
+Output written on kursinis.pdf (27 pages).
