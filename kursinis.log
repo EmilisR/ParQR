@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  13 OCT 2017 10:13
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  13 OCT 2017 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,11 +1176,11 @@ Package biblatex Info: ... file 'kursinis.bbl' found.
 Package biblatex Info: Reference section=0 on input line 36.
 Package biblatex Info: Reference segment=0 on input line 36.
 \c@lstlisting=\count376
-LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1192,38 +1192,38 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
+] [1
+
 ] [2
 
 ] [3
 
-] [4
+] [4] [5
 
-] [5] [6
+] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15
 
-] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16
-
-] [17]
-[18] [19]
+] [16]
+[17] [18]
 File: img/whoosh.png Graphic file (type QTm)
- <use  "img/whoosh.png" > [20
+ <use  "img/whoosh.png" > [19
 
 ]
 File: img/pathtopark.png Graphic file (type QTm)
  <use  "img/pathtopark.png" >
-Overfull \hbox (29.18367pt too wide) in paragraph at lines 615--616
+Overfull \hbox (29.18367pt too wide) in paragraph at lines 616--617
  [][] 
  []
 
-[21]
+[20]
 File: img/mparking.jpg Graphic file (type QTm)
- <use  "img/mparking.jpg" > [22]
+ <use  "img/mparking.jpg" > [21]
 File: img/unipark.jpg Graphic file (type QTm)
  <use  "img/unipark.jpg" >
 File: img/smartpark.png Graphic file (type QTm)
 
-<use  "img/smartpark.png" > [23] [24] [25
+<use  "img/smartpark.png" > [22] [23] [24
 
-] [26
+] [25
 
 ] (./kursinis.aux)
 Package logreq Info: Writing requests to 'kursinis.run.xml'.
