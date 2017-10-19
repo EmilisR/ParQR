@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  13 OCT 2017 10:24
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.12.14)  19 OCT 2017 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1210,7 +1210,7 @@ File: img/whoosh.png Graphic file (type QTm)
 ]
 File: img/pathtopark.png Graphic file (type QTm)
  <use  "img/pathtopark.png" >
-Overfull \hbox (29.18367pt too wide) in paragraph at lines 616--617
+Overfull \hbox (29.18367pt too wide) in paragraph at lines 613--614
  [][] 
  []
 
