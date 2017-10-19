@@ -1,9 +1,9 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [1] Config.pm:321> INFO - Logfile is 'kursinis.blg'
-[47] biber:275> INFO - === Thu Oct 19, 2017, 19:39:01
-[48] Biber.pm:333> INFO - Reading 'kursinis.bcf'
-[88] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[89] Utils.pm:169> WARN - The file 'kursinis.bcf' does not contain any citations!
-[113] bbl.pm:482> INFO - Writing 'kursinis.bbl' with encoding 'UTF-8'
-[114] bbl.pm:555> INFO - Output to kursinis.bbl
-[116] Biber.pm:105> INFO - WARNINGS: 1
+[44] biber:275> INFO - === Thu Oct 19, 2017, 22:20:34
+[45] Biber.pm:333> INFO - Reading 'kursinis.bcf'
+[81] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[81] Utils.pm:169> WARN - The file 'kursinis.bcf' does not contain any citations!
+[106] bbl.pm:482> INFO - Writing 'kursinis.bbl' with encoding 'UTF-8'
+[107] bbl.pm:555> INFO - Output to kursinis.bbl
+[110] Biber.pm:105> INFO - WARNINGS: 1
