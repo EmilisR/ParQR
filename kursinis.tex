@@ -19,7 +19,7 @@
 \faculty{Matematikos ir informatikos fakultetas}
 \department{Programų sistemų katedra}
 \papertype{Naudotojų poreikių ir užduočių analizė}
-\title{ParQR - Parkavimo mobilioji aplikacija}
+\title{ParQR - Parkavimo mobilioji programėlė}
 \titleineng{ParQR - Parking phone app}
 \status{3 kurso 5 grupės studentai}
 \author{Miglė Vaitulevičiūtė}
@@ -68,7 +68,7 @@ Darbai buvo pasiskirstyti pagal komandos narių sugebėjimus. Visų narių indel
 
 \subsection*{Programų sistemos pavadinimas}
 
-Šios sistemos pavadinimas - "ParQR" yra kiles iš žodžių parkuotis ir qr sujungimo, kas ir yra mūsų sistemos pagrindiai aspektai.
+Šios sistemos pavadinimas - ,,ParQR'' yra kiles iš žodžių parkuotis ir qr sujungimo, kas ir yra mūsų sistemos pagrindiai aspektai.
 
 \subsection*{Dalykinė sritis}
 
@@ -106,18 +106,15 @@ Sėkminga sistemos veikla suinteresuoti asmenys gali būti suskirstyti į šias 
 					\item norintys pasistatyti automobilį jiems tinkamoje aikštelėje;
 					\item norintys susimokėti už stovėjimą aikštelėje;
 					\item norintys gauti kelią iki jų automobilio per Google Maps™;
-					\item norintys sužinoti kelią iki jų pasirinktos, paskirtos, rezervuotos vietos.
-				\end{itemize}
-		\end{itemize}
-	\item Antriniai:
-		\begin{itemize}[label={$\bullet$}]
-			\item Klientai:
-				\begin{itemize}[label={--}]
+					\item norintys sužinoti kelią iki jų pasirinktos, paskirtos, rezervuotos vietos;
 					\item siekiantys gauti informaciją apie artimiausias galimas parkavimo vietas tam tikru adresu (dabar esamos vietos arba įvesto adreso);
 					\item siekiantys rasti stovėjimo aikštelių kainas, tarifą;
 					\item siekiantys sužinoti stovėjimo aikštelės tipą (atvira, požeminė, t.t.);
 					\item siekiantys sužinoti stovėjimo aikštelės užimtumą.
-				\end{itemize}					
+				\end{itemize}
+		\end{itemize}
+	\item Antriniai:
+		\begin{itemize}[label={$\bullet$}]					
 			\item Įmonės:
 				\begin{itemize}[label={--}]
 					\item rezervuoja tam tikrą stovėjimo vietų skaičių savo darbuotojams/nuolatiniams klientams.
@@ -384,18 +381,18 @@ Sėkminga sistemos veikla suinteresuoti asmenys gali būti suskirstyti į šias 
 			\item Petras norėdamas surasti informacijos apie stovėjimo aikšteles sunkvežimiams, įsijungia programėlę pasirenka sunkvežimių filtrą ir randa visą informaciją suskirstyta atskiroms aikštelėms, paspaudęs ant vienos gali pasiskaityti daugiau. Išsirinkęs tinkamiausia stovėjimo aikštelę - važiuoja pasistatyti savo sunkvežimio.
 			
 		\end{itemize}
-	\item Sistema pritaikyta Android ir Apple telefonams bei planšetiniams kompiuteriams.
+	\item Sistema pritaikyta naujiems naudotojams.
 		\begin{itemize}[label={-}]
-			\item Vairuotojas Antanas iš anksto užsirezervavo stovėjimo vietą automobilių stovėjimo aikštelėje, tačiau važiuojant jam išsikrovė jo mobilusis Android telefonas, iš kurio buvo rezervuota vieta. Jis pasimeta ir nežino nei kaip rasti aikštelę, nei kaip aikštelėje apmokėti už stovėjimą.
+			\item Vairuotojas Antanas pirmą kartą naudoja programėlę ,,Stovėjimas Vilniuje'', tačiau jis nesupranta, kaip naudotis programėle, kadangi nėra išaiškinta kokie yra jos veikimo žingsniai. Pabandęs suvesti savo mašinos numerį ir netyčia padaręs klaidą, jis pamato ekrane pranešimą, kad įvyko nenumatyta klaida ir išjungia programėlę, nes ji nebeveikia.
 
-			\item Veiklos kontekstas: automobilyje, išsikrovęs Android mobilusis telefonas, Apple mobilusis telefonas ar planšetė su mobiliuoju internetu, vairuotojas, kuris turi kelis mobiliuosius įrenginius.
+			\item Veiklos kontekstas: automobilyje, pirmą kartą naudojantis programėlę arba menkas IT žinias turintis žmogus.
 				\begin{itemize}[label={$\bullet$}]
-					\item Veiklos dažnis: veikla nereguliari nuo 0 iki 3 kartų per mėnesį.
-					\item Veiklos trukmė: programėlės instaliavimas ir prisijungimas kitame įrenginyje iki 5 minučių.
+					\item Veiklos dažnis: veikla nereguliari nuo 0 iki 3 kartų per savaitę.
+					\item Veiklos trukmė: programėlės naudojimas gali trukti iki 5 min ir naudotojo siekiai vis viena nepasiekti.
 				\end{itemize}
-			\item Vairuotojo mobilusis telefonas yra išsikrovęs ir jis negali prisijungti prie programėlės. Problema sprendžiama, jei turi kitą mobilųjį įrenginį.
+			\item Vairuotojas nežinantis kaip naudotis programėle neturi jokios informacijos šaltinio, iš kurio galėtų sužinoti kaip ja naudotis, bei programėlė pateikia labai neaiškius validacijos pranešimus. 
 
-			\item Antanas į kitą mobilųjį įrenginį su Android ar iOS operacine sistema įsirašo programėlę ParQR ir prisijungia prie savo paskyros vienu paspaudimu. Visa informacija apie užsakytą parkavimo vietą lieka vartotojo paskyroje, todėl galima nesunkiai tai pasiekti iš skirtingų įrenginių.
+			\item Antanas pirmą kartą atsidaręs programėlę pagrindiniame lange pamato rodyklę į pasirinkimą ,,Gidas''. Paspaudęs ant pasirinkimo Antanas gali išsirinkti kokią funkciją nori išsiaiškinti ir tada jam yra pravedamas apmokymas.
 			
 		\end{itemize}
 	\item Išankstinės rezervacijos atšaukimas
