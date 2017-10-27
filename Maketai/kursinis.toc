@@ -1,0 +1,35 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {lithuanian}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Anotacija}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.}Santrauka}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.}Įvadas}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.}Metodas}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.}Rezultatai}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.}Miglės Vaitulevičiūtės maketo vertinimas}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1.}Euristinis vertinimas}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.1.1.1.}Stiprybės}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.1.1.2.}Tobulinimo galimybės}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.2.}Pažintinė peržvalga}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.}Vytauto Žilino maketo vertinimas}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.1.}Euristinis vertinimas}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.1.}Stiprybės}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.2.1.2.}Tobulinimo galimybės}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.2.}Pažintinė peržvalga}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.}Išvados}{19}

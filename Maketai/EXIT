@@ -1,0 +1,50 @@
+External Viewers Setup
+
+New Entry: Type=[                                        ]
+           Command=[                                        ]
+[Register]
+
+                              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type                                                          Command
+                                                                                                              [ ]Delete
+                                                                                                              [ ]Delete
+                                                                                                              [ ]Delete
+                                                                                                              [ ]Delete
+                                                                                                              [ ]Delete
+text/plain             less '%s'; needsterminal                                                               [ ]Delete
+text/html              /usr/bin/sensible-browser '%s'; description=HTML Text; nametemplate=%s.html            [ ]Delete
+application/pdf        /usr/bin/zathura '%s'; test=test -n "$DISPLAY"; description=Portable Document Format;  [ ]Delete
+                       nametemplate=%s.pdf
+application/x-pdf      /usr/bin/zathura '%s'; test=test -n "$DISPLAY"; description=Portable Document Format;  [ ]Delete
+                       nametemplate=%s.pdf
+application/           /usr/bin/nroff -mandoc -Tutf8; copiousoutput; print=/usr/bin/nroff -mandoc -Tutf8 |    [ ]Delete
+x-troff-man            print text/plain:-
+application/x-info     /usr/bin/info -f '%s'; needsterminal; description=GNU Info document                    [ ]Delete
+application/x-dvi      /usr/bin/xdvi '%s'; description=TeX DVI; test=test -n "$DISPLAY"; nametemplate=%s.dvi  [ ]Delete
+application/zip        unzip -l '%s'; nametemplate=%s.zip; copiousoutput                                      [ ]Delete
+text/plain             more '%s'; needsterminal                                                               [ ]Delete
+application/           cautious-launcher %s /usr/bin/java -jar; test=test -n "$DISPLAY"                       [ ]Delete
+x-java-archive
+application/           cautious-launcher %s /usr/bin/java -jar; test=test -n "$DISPLAY"                       [ ]Delete
+java-archive
+application/x-jar      cautious-launcher %s /usr/bin/java -jar; test=test -n "$DISPLAY"                       [ ]Delete
+application/pdf        zathura %s; test=test -n "$DISPLAY"                                                    [ ]Delete
+text/plain             view '%s'; edit=vim '%s'; compose=vim '%s'; test=test -x /usr/bin/vim; needsterminal   [ ]Delete
+text/html              /usr/bin/w3m -T text/html '%s'; needsterminal; description=HTML Text; nametemplate=    [ ]Delete
+                       %s.html
+text/plain             view '%s'; edit=vi '%s'; compose=vi '%s'; needsterminal                                [ ]Delete
+text/html              /usr/bin/w3m -I %{charset} -dump -T text/html '%s'; copiousoutput; description=HTML    [ ]Delete
+                       Text; nametemplate=%s.html
+text/*                 less '%s'; needsterminal                                                               [ ]Delete
+text/*                 view '%s'; edit=vim '%s'; compose=vim '%s'; test=test -x /usr/bin/vim; needsterminal   [ ]Delete
+application/x-info     /usr/bin/info --subnodes -o /dev/stdout -f '%s' 2>/dev/null; copiousoutput;            [ ]Delete
+                       description=GNU Info document
+application/x-tar      /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput            [ ]Delete
+application/x-gtar     /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput            [ ]Delete
+application/x-ustar    /bin/tar tvf '%s'; print=/bin/tar tvf - | print text/plain:-; copiousoutput            [ ]Delete
+text/*                 more '%s'; needsterminal                                                               [ ]Delete
+text/*                 view '%s'; edit=vi '%s'; compose=vi '%s'; needsterminal                                [ ]Delete
+application/           /usr/lib/mime/debian-view '%s'; needsterminal; description=Debian GNU/Linux Package;   [ ]Delete
+x-debian-package       nametemplate=%s.deb
+[Do it]
